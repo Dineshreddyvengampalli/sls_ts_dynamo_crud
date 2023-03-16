@@ -1,1 +1,1 @@
-# sls_ts_dynamo_crud
+# Crud using serverless and typescript
